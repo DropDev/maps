@@ -1,7 +1,5 @@
 const ROT = 10 * 60 * 1000;
 
-// 2026-06-27 06:00 Brisbane (+10)
-// = 2026-06-26 20:00 UTC
 const START = Date.UTC(2026, 5, 26, 20, 0, 0);
 
 const maps = [
